@@ -24,7 +24,7 @@ System.out.println(num1 +","+ num2);
 System.out.print( "The total of both numbers is: ");
 
 System.out.println ( num1 + num2);
-System.out.print ("The product of the two numbers is:");
+System.out.print ("The product of the two numbers is: ");
 System.out.println ( num1*num2);
 
 }
